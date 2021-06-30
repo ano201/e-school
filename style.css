@@ -1,0 +1,54 @@
+.bg-light-paste{
+ background-color: #F5FFFA;
+}
+.green-btn{
+ background-color: mediumseagreen;
+ border: none;
+ border-radius: 30px;
+}
+.green-text{
+ color: mediumseagreen;
+}
+.dblue-text{
+ color: #151B54;
+}
+.container{
+ margin-bottom: 40px;
+}
+.card{
+ margin: auto;
+ border: none;
+}
+.little-card{
+ transition: 0.2s;
+ border-radius: 10px;
+}
+.little-card img{
+ height: 80px;
+}
+.little-card:hover{
+ background-color: white;
+ box-shadow: 10px 10px 10px #E5E4E2;
+}
+.big-card{
+ box-shadow: 10px 8px 10px #E5E4E2, -10px 8px 10px #E5E4E2,-10px -8px 10px #E5E4E2, 10px -8px 10px #E5E4E2;
+ margin: auto;
+ border-radius: 10px;
+}
+.c-footer img{
+ width: 10%;
+}
+.c-footer small{
+ font-size: 10px
+}
+.c-footer{
+ width: 250px
+}
+footer{
+ background-color: #42445A;
+ color: white;
+}
+footer a{
+ text-decoration: none;
+ color: white;
+}
